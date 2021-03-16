@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**bolodissenoura/bolodissenoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on FrontEnd Development and searching new opportunities.
 - 🌱 I’m currently learning Javascript, CSS, Html and trying some Python .
 - 👯 I’m looking to collaborate in your project if you want, just chat me on instagram.
