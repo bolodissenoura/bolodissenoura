@@ -15,4 +15,4 @@
 - 💬 Pergunte-me sobre o que quiser, só não te prometo a resposta certa pra tudo hahaha.
 - 😎 Amo cachorros, música (siga minha banda: @garbozina), toco bateria e violão, League of Legends (Bolo disse noura) e faço novos amigos !!
 --------------------------------------------------------------------------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolodissenoura_icons=true&theme=radical)
