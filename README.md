@@ -15,4 +15,3 @@
 - 💬 Pergunte-me sobre o que quiser, só não te prometo a resposta certa pra tudo hahaha.
 - 😎 Amo cachorros, música (siga minha banda: @garbozina), toco bateria e violão, League of Legends (Bolo disse noura) e faço novos amigos !!
 --------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
