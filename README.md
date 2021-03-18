@@ -13,5 +13,5 @@
 - 👯 Estou procurando colaborar em seu projeto se você quiser, apenas me da um alô no instagram.
 - 🤔 Estou procurando ajuda com o que você puder ajudar! Qualquer informação ou ideia em meus projetos é bem-vinda.
 - 💬 Pergunte-me sobre o que quiser, só não te prometo a resposta certa pra tudo hahaha.
-- 😎 Amo cachorros, música (siga minha banda: @garbozina), toco bateria e violão, League of Legends (Bolo disse noura) e faço novos amigos !!
+- 😎 Amo cachorros, música (siga minha banda: @garbozina), toco bateria e violão, League of Legends (Bolo disse noura) e fazer novos amigos !!
 --------------------------------------------------------------------------------
