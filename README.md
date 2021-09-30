@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with what you can ! Any information or idea in my projects are wellcome . 
 - 💬 Ask me about anything you want .
 - 😎 I love dogs, music ( follow my band @garbozina), play drums and guitar, League of Legends (Bolo disse noura) and make new friends !!
+- https://bolodissenoura.github.io/daniellimae/
 -----------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento do FrontEnd e buscando novas oportunidades.
@@ -14,4 +15,5 @@
 - 🤔 Estou procurando ajuda com o que você puder ajudar! Qualquer informação ou ideia em meus projetos é bem-vinda.
 - 💬 Pergunte-me sobre o que quiser, só não te prometo a resposta certa pra tudo hahaha.
 - 😎 Amo cachorros, música (siga minha banda: @garbozina), toco bateria e violão, League of Legends (Bolo disse noura) e fazer novos amigos !!
+- https://bolodissenoura.github.io/daniellimae/
 --------------------------------------------------------------------------------
