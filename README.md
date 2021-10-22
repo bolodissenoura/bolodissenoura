@@ -1,4 +1,5 @@
 Daniel Lima , Desenvolvedor FrontEnd 🧙‍♂️
+<h1 align="center"><a href="https://bolodissenoura.github.io/daniellimae/">Meu Portifólio</a></p>
 
 <div align="center">
   <a href="https://linkr.bio/daniellimae">
@@ -36,13 +37,4 @@ Daniel Lima , Desenvolvedor FrontEnd 🧙‍♂️
 - https://bolodissenoura.github.io/daniellimae/
   </p>
 -----------------------------------------------------------------------------------------------------------------------------
-  <p>
-- 🔭 Atualmente estou trabalhando no desenvolvimento do FrontEnd e buscando novas oportunidades.
-- 🌱 Já trabalhei com tecnologias como Javascript, CSS, Html,Laravel, React Native, Vue.js, Bootstrap e Python.
-- 👯 Estou procurando colaborar em seu projeto se você quiser, apenas me da um alô no instagram.
-- 🤔 Estou procurando ajuda com o que você puder ajudar! Qualquer informação ou ideia em meus projetos é bem-vinda.
-- 💬 Pergunte-me sobre o que quiser, só não te prometo a resposta certa pra tudo hahaha.
-- 😎 Amo cachorros, música (siga minha banda: @garbozina), toco bateria e violão, League of Legends (Bolo disse noura) e fazer novos amigos !!
-- https://bolodissenoura.github.io/daniellimae/
-      </p>
---------------------------------------------------------------------------------
+
