@@ -1,4 +1,10 @@
-### Hi there 👋
+Daniel Lima , Desenvolvedor FrontEnd 🧙‍♂️
+
+<div align="center">
+  <a href="https://linkr.bio/daniellimae">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolodissenoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolodissenoura&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 - 🔭 I’m currently working on FrontEnd Development and searching new opportunities.
 - 🌱 I've worked with technologies like Javascript, CSS, Html, Laravel, React Native, Vue.js, Bootstrap and Python.
