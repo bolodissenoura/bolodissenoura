@@ -15,6 +15,17 @@ Daniel Lima , Desenvolvedor FrontEnd 🧙‍♂️
   <img align="center" alt="Dani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Dani-pic" height="150" style="border-radius:50px;" src="https://bolodissenoura.github.io/daniellimae/">
 </div>
+  
+  <div> 
+
+  <a href="https://instagram.com/daniellimae" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/bolodissenouraa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/daniel-alves-lima-b53090200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+  
+  <p>
 
 - 🔭 I’m currently working on FrontEnd Development and searching new opportunities.
 - 🌱 I've worked with technologies like Javascript, CSS, Html, Laravel, React Native, Vue.js, Bootstrap and Python.
@@ -23,8 +34,9 @@ Daniel Lima , Desenvolvedor FrontEnd 🧙‍♂️
 - 💬 Ask me about anything you want .
 - 😎 I love dogs, music ( follow my band @garbozina), play drums and guitar, League of Legends (Bolo disse noura) and make new friends !!
 - https://bolodissenoura.github.io/daniellimae/
+  </p>
 -----------------------------------------------------------------------------------------------------------------------------
-
+  <p>
 - 🔭 Atualmente estou trabalhando no desenvolvimento do FrontEnd e buscando novas oportunidades.
 - 🌱 Já trabalhei com tecnologias como Javascript, CSS, Html,Laravel, React Native, Vue.js, Bootstrap e Python.
 - 👯 Estou procurando colaborar em seu projeto se você quiser, apenas me da um alô no instagram.
@@ -32,4 +44,5 @@ Daniel Lima , Desenvolvedor FrontEnd 🧙‍♂️
 - 💬 Pergunte-me sobre o que quiser, só não te prometo a resposta certa pra tudo hahaha.
 - 😎 Amo cachorros, música (siga minha banda: @garbozina), toco bateria e violão, League of Legends (Bolo disse noura) e fazer novos amigos !!
 - https://bolodissenoura.github.io/daniellimae/
+      </p>
 --------------------------------------------------------------------------------
