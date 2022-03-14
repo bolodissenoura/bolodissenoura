@@ -24,15 +24,5 @@ Daniel Lima , Desenvolvedor FrontEnd 🧙‍♂️
  
 </div>
   
-  <p>
-
-- 🔭 I’m currently working on FrontEnd Development and searching new opportunities.
-- 🌱 I've worked with technologies like Javascript, CSS, Html, Laravel, React Native, Vue.js, Bootstrap and Python.
-- 👯 I’m looking to collaborate in your project if you want, just chat me on instagram.
-- 🤔 I’m looking for help with what you can ! Any information or idea in my projects are wellcome . 
-- 💬 Ask me about anything you want .
-- 😎 I love dogs, music ( follow my band @garbozina), play drums and guitar, League of Legends (Bolo disse noura) and make new friends !!
-- https://bolodissenoura.github.io/daniellimae/
-  </p>
 -----------------------------------------------------------------------------------------------------------------------------
 
