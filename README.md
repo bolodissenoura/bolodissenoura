@@ -1,5 +1,5 @@
-Daniel Lima , Desenvolvedor FrontEnd 🧙‍♂️
-<h1 align="center"><a href="https://bolodissenoura.github.io/daniellimae/">Meu Portifólio</a></p>
+<h1 align="center"> Daniel Lima ( bolodissenoura ) 🧙‍♂️ </h1>
+<h1 align="center"><a href="https://bolodissenoura.github.io/daniellimae/">:link: Portifólio</a></p>
 
 <div align="center">
   <a href="https://linkr.bio/daniellimae">
