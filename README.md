@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://linkr.bio/daniellimae">
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolodissenoura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div align="center" style="display: inline_block"><br>
