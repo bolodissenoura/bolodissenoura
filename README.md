@@ -3,7 +3,8 @@
 
 <div align="center">
   <a href="https://linkr.bio/daniellimae">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+    <iframe src="https://giphy.com/embed/jZJ4gwbIvdzQk" width="480" height="211" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cake-cartoons-cooking-jZJ4gwbIvdzQk">via GIPHY</a></p>
+  <img src="https://giphy.com/gifs/cake-slice-9u8GF7MuhdvS8" width="40" height="40" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolodissenoura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div align="center" style="display: inline_block"><br>
