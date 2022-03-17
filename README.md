@@ -3,6 +3,7 @@
 
 <div align="center">
   <a href="https://linkr.bio/daniellimae">
+    <div class="tenor-gif-embed" data-postid="14282385" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/league-of-legends-riot-games-lol1234-lol-reaction-gif-14282385">League Of Legends Riot Games Sticker</a>from <a href="https://tenor.com/search/league+of+legends-stickers">League Of Legends Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolodissenoura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div align="center" style="display: inline_block"><br>
