@@ -3,8 +3,7 @@
 
 <div align="center">
   <a href="https://linkr.bio/daniellimae">
-    
-    <img height="180em" src="https://tenor.com/view/league-of-legends-riot-games-lol1234-lol-reaction-gif-14282385"/>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolodissenoura&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div align="center" style="display: inline_block"><br>
