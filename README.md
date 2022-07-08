@@ -24,9 +24,9 @@
  
 </div>
 
-![daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=bolodissenoura&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)
-<div align="center"> 
 
+<div align="center"> 
+![daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=bolodissenoura&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)
   <img src="https://i.imgur.com/7jbqEtI.gif" >
  </div>
 
