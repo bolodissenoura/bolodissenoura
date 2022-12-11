@@ -19,13 +19,5 @@
  	<a href="https://www.twitch.tv/bolodissenouraa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/daniel-alves-lima-b53090200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-
-![daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=bolodissenoura&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)
-<div align="center"> 
-
-  <img src="https://i.imgur.com/7jbqEtI.gif" >
- </div>
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="50px">
