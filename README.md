@@ -6,11 +6,13 @@
  <li >And now i'm building and planning softwares on the web and mobile, in order to make life easier for clients and brokers at Cyrela company, one of the biggest companies in the Brazilian real estate market with regard to the development of residential developments .</li> 
 <h1 align="center"> 🧰 Toolbox </h1>
 <div align="center">
-<a href="https://www.javascript.com/">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Logo" width="70" height="70"/></a> 
+
  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript Logo" width="70" height="70"/></a> 
   <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Logo" width="70" height="70"/>  </a>
+ <a href="https://nextjs.org/">
+<img src="https://cdn.discordapp.com/attachments/1060374868102742116/1073341412113915914/next.png" alt="Next Logo" width="70" height="70"/></a> 
  <br/>
+ <a href="https://graphql.org/">   <img src="https://cdn.discordapp.com/attachments/1060374868102742116/1073341412399120384/graphql.png" alt="Graphql Logo" width="70" height="70"/></a>
   <a href="https://www.mongodb.com/">  <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="MongoDB Logo" width="70" height="70"/> </a>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Logo" width="70" height="70"/> </a>
   <a href="https://www.postgresql.org/">   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="70" height="70"/></a>
