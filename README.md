@@ -1,5 +1,5 @@
 <h1 align="center"> Daniel Lima ( bolodissenoura ) 🎂 || <a href="https://bolodissenoura.github.io/daniellimae/">:link: Portifólio</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-<p align="center">As a Full-stack Developer, I have worked before with many products and teams. Having a space where I can be creative and feel important is the main key for me in any area.</p>
+<p align="center">As a Full-stack Developer, I have worked with many products and teams. Having a space where I can be creative and feel important is the main key for me in any area.</p>
 <ul align="center"> Websites/mobile Products and  that I'm glad to have already make part and have a little bit of me in : </ul>
  <li align="center">Working at Uol, websites from EdTechs -> Santander, Banco do Brasil, Tim, Claro, Americanas, Magalu. </li>
  <li align="center">All in order to meet the needs of the Avon group on its platform that serves more than millions of users a day! With a multinational team, putting English in a professional way in everyday life. </li>
