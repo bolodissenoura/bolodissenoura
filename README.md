@@ -1,4 +1,4 @@
-<h1 align="center"> Daniel Lima ( bolodissenoura ) 🎂 || <a href="https://bolodissenoura.github.io/daniellimae/">:link: Portifólio</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
+<h1 align="center"> Daniel Lima ( bolodissenoura ) 🎂 || <a href="https://bolodissenoura.github.io/daniellimae/">:link: website</a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 <p >As a Full-stack Developer, I have worked with many products and teams. A space where I can be creative and feel important is the main key for me in any area.</p>
 <ul > Websites/mobile Products and  that I'm glad to have already make part and have a little bit of me in : </ul>
  <li >Working at Uol, websites from EdTechs -> Santander, Banco do Brasil, Tim, Claro, Americanas, Magalu. </li>
