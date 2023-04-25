@@ -5,10 +5,7 @@
  <li >All in order to meet the needs of the Avon group on its platform that serves more than millions of users a day! With a multinational team, putting English in a professional way in everyday life. </li>
  <li >And now i'm building and planning softwares on the web and mobile, in order to make life easier for clients and brokers at Cyrela company, one of the biggest companies in the Brazilian real estate market with regard to the development of residential developments .</li> 
 <h1 align="center"> 🧰 Toolbox </h1>
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bolodissenoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolodissenoura&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
+
 
 <br/>
 
